@@ -1,0 +1,22 @@
+section {
+  display: grid;
+  width: 100%;
+  height: 100vh;
+  grid-template-areas:
+    "header"
+    "main"
+    "footer";
+  grid-template-rows: auto 1fr auto;
+}
+
+.Header {
+  grid-area: header;
+}
+
+.Main {
+  grid-area: main;
+}
+
+.Footer {
+  grid-area: footer;
+}

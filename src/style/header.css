@@ -1,0 +1,12 @@
+header {
+  width: 82%;
+  height: 30%;
+  margin-top: 10px;
+  margin-left: 12%;
+  margin-right: 12%;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+}

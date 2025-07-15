@@ -1,0 +1,8 @@
+footer {
+  height: 30%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-color: palevioletred;
+  display: flex;
+  justify-content: center;
+}
